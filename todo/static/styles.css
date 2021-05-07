@@ -1,0 +1,27 @@
+body {
+	background-color: #002B36;
+	font-family: 'Oswald', 'Futura', sans-serif;
+}
+#wrapper {
+	margin-top: 10% !important;
+}
+#content {
+	background-color: #38BFA7;
+	border-radius: 20px;
+	padding: 25px;
+}
+#content > h2 {
+	font-size: 20px;
+	text-align: center;
+	padding-top: 0;
+}
+.t10 {
+	margin-top: 15px;
+}
+.t20 {
+	margin-top: 20px;
+}
+.task-completed {
+	text-decoration: line-through;
+	background-color: #FDFD96;
+}
